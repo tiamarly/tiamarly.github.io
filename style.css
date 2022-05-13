@@ -4,6 +4,8 @@ html{
   background-color: #EEEEEE;
   font-family: 'Medium 500', montserrat;
 
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -19,7 +21,7 @@ html{
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
 }
-}
+
 
 .header {
   padding: 7px;
